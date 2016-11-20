@@ -1,3 +1,3 @@
 import funkce
 
-definice.sibenice()
+funkce.sibenice()
